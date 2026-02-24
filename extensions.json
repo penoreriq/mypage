@@ -2,311 +2,198 @@
   "secuses": true,
   "results": [
     {
-      "title": "Популярные",
+      "title": "all",
       "results": [
-       {
-		  "name": "BwaRC",
-		  "author": "@bwato",
-		  "link": "https://bwa.to/rc",
-		  "descr": "Фильмы и сериалы в онлайн. Нужна поддержка WebAssembly и версия Chrome > 80",
-		  "available_lampa": 1
-	},
         {
-		  "name": "by Skaz ",
-		  "author": "@helpiptv",
-		  "link": "http://skaz.tv/tv.js",
-		  "descr": "Телевидение и Онлайн 4к. 1700+ каналов, Фильмы и сериалы. Бесплатные онлайн трансляции",
-		  "available_lampa": 1
-		},
-		{
-		  "name": "MODS's",
-		  "author": "@modss_group",
-		  "link": "http://lampa.stream/modss",
-		  "descr": "Фильмы и сериалы в онлайн. Плюс различные дополнения через меню настроек Modss.",
-		  "available_lampa": 1
-		}
-      ],
-      "hpu": "best"
-    },
-    {
-      "title": "Онлайн видео",
-      "results": [
-	      	{
-		  "name": "Онлисказ 4к",
-		  "author": "@helpiptv",
-		  "link": "http://skaz.tv/onlines.js",
-		  "descr": "Онлайн Фильмы и Сериалы 4к. Тестовый период через бота.",
-		  "available_lampa": 1
-		},
-	      	{
-		  "name": "NetFix",
-		  "author": "@netfix_party",
-		  "link": "https://netfix.cc/netfix.js",
-		  "descr": "Лучшее кино и сериалы - быстро, удобно, в высоком качестве.",
-		  "available_lampa": 1
-		},
-		{
-		  "name": "MODS's",
-		  "author": "@modss_group",
-		  "link": "http://lampa.stream/modss",
-		  "descr": "Фильмы и сериалы в онлайн. На выбор доступно 17 балансеров и различные дополнения через меню настроек Modss.",
-		  "available_lampa": 1
-		}, 
-		  {
-		  "name": "Z1 Онлайн",
-		  "author": "@z1",
-		  "link": "http://z01.online/live",
-		  "descr": "Фильмы и сериалы онлайн без подписки",
-		  "available_lampa": 1
-		},
-                {
-		  "name": "Онлайн Мод",
-		  "author": "@t_anton",
-		  "link": "https://nb557.github.io/plugins/online_mod.js",
-		  "descr": "Фильмы и сериалы в онлайн",
-		  "available_lampa": 1
-		},
-{
-"name": "Filmix",
-"author": "@filmix",
-"link": "https://lampaplugins.github.io/store/fx.js",
-"descr": "Фильмы и сериалы в онлайн. Работает на старых устройствах",
-"available_lampa": 1
-},  
-		{
-		  "name": "Смотреть (Showy)",
-		  "author": "Showy",
-		  "link": "http://smotret24.ru/online.js",
-		  "descr": "Простой плагин для просмотра видео",
-		  "available_lampa": 1
-		},
-	      	{
-		  "name": "Онлайн Stream",
-		  "author": "",
-		  "link": "http://arkmv.ru/vod",
-		  "descr": "Онлайн",
-		  "available_lampa": 1
-		},
-		{
-		  "name": "Клубничка Z",
-		  "author": "@z01",
-		  "link": "http://z01.online/s.js",
-		  "descr": "Онлайн просмотр контента для взрослых",
-		  "available_lampa": 1
-		}
-      ],
-      "hpu": "video"
-    },
-    {
-      "title": "Управление",
-      "results": [
-	      	      	 {
-      		"name": "Трейлеры с Рутуб",
-      		"author": "@RootU",
-      		"link": "https://plugin.rootu.top/rutube.js",
-      		"descr": "Добавляет кнопку трейлеры с сервиса RuTube",
-      		"available_lampa": 1
- 	   	},
-	      	 {
-      		"name": "Трейлеры с iTunes",
-      		"author": "@RootU",
-      		"link": "https://plugin.rootu.top/trailers.js",
-      		"descr": "Добавляет кнопку трейлеры с сервиса iTunes",
-      		"available_lampa": 1
- 	   	},
-	       {
-      		"name": "Подборки",
-      		"author": "@helpiptv",
-      		"link": "https://lampaplugins.github.io/store/p.js",
-      		"descr": "Подборки от онлайн кинотеатров, мультсериалы и мультфильмы.",
-      		"available_lampa": 1
- 	   	},
-		{
-		  "name": "SURS",
-		  "author": "Roman V",
-		  "link": "https://aviamovie.github.io/surs.js",
-		  "descr": "Плагин создает уникальные подборки фильмов и сериалов на главной странице по жанрам, стримингам, популярности, просмотрам и кассовым сборам. Обновление подборок происходит при каждом нажатии кнопки Главная (Home).",
-		  "available_lampa": 1
-		},
-		{
-		  "name": "Добавляет пункт \"Парсер\" в меню",
-		  "author": "@lampa",
-		  "link": "http://cub.red/plugin/etor",
-		  "descr": "Плагин для ТВ, на которых Lampa установлена через официальные магазины LG Store и Tizen App Store. Включает в настройках отображение пунктов Парсер и Torrserver",
-		  "available_lampa": 1
-		},
-	        {
-		  "name": "Публичные парсеры",
-		  "author": "@lme_chat",
-		  "link": "https://lampame.github.io/main/pubtorr.js",
-		  "descr": "Сборник публичных парсеров отображением статуса доступности",
-		  "available_lampa": 1
-		},
-	   	{
-		  "name": "Shikimori catalog",
-		  "author": "@lme_chat",
-		  "link": "https://lampame.github.io/main/shikimori.js",
-		  "descr": "Отображает информацию по аниме с Shikimori, так же пытается найти по оригинальному названию на ТМДБ",
-		  "available_lampa": 1
-		},
-		{
-		  "name": "Тип управления",
-		  "author": "@nemiroff",
-		  "link": "https://nemiroff.github.io/lampa/select_weapon.js",
-		  "descr": "Позволяет выбрать тип управления (Пульт без мышки, Пульт с мышью, Тачскрин), а так же сбросить тип управления выбранный ранее",
-		  "available_lampa": 1
-		},
-	        {
-		  "name": "Дополнительные категории",
-		  "author": "@lme_chat",
-		  "link": "https://lampame.github.io/main/nc/nc.js",
-		  "descr": "Добавление категорий Мультфильмы, Netflix, Концерты, и прочее",
-		  "available_lampa": 1
-		},
-		{
-		  "name": "Старый стиль (Закладки, Нравится, Позже)",
-		  "author": "@VitalikPVA",
-		  "link": "http://github.freebie.tom.ru/want.js",
-		  "descr": "Возвращает в главное меню старый стиль отображения пунктов (Закладки, Нравится, Позже)",
-		  "available_lampa": 1
-		},
-		{
-		  "name": "Сброс настроек субтитров",
-		  "author": "@t_anton",
-		  "link": "https://nb557.github.io/plugins/reset_subs.js",
-		  "descr": "Сбрасывает настройки субтитров по умолчанию",
-		  "available_lampa": 1
-		},
-		{
-		  "name": "Выключение тача",
-		  "author": "@t_anton",
-		  "link": "https://nb557.github.io/plugins/not_mobile.js",
-		  "descr": "Выключает сенсорное управление, если оно было включено по ошибке",
-		  "available_lampa": 1
-		}
-      ],
-      "hpu": "control"
-    },
-    {
-      "title": "Телевидение",
-      "results": [
-		 {
-		  "name": "by skaz",
-		  "author": "@helpiptv",
-		  "link": "http://skaz.tv/tv.js",
-		  "descr": "Телевидение и Онлайн 4к. 1700+ каналов, IPTV плейлисты. Бесплатные онлайн трансляции",
-		  "available_lampa": 1
-		},
-		{
-		  "name": "Kulik",
-		  "author": "@SawamuraRen",
-		  "link": "http://cdn.kulik.uz/cors",
-		  "descr": "Просмотр IPTV каналов, отсортированных по различным категориям. Есть возможность поменять стиль плагина, сервер вещания, а также добавить каналы в избранное",
-		  "available_lampa": 1
-		}, {
-		  "name": "by skaz (резерв для KZ, BY)",
-		  "author": "@helpiptv",
-		  "link": "http://skaztv.online/tv.js",
-		  "descr": "Телевидение и Онлайн 4к. 1700+ каналов, IPTV плейлисты. Бесплатные онлайн трансляции",
-		  "available_lampa": 1
-		}
-      ],
-      "hpu": "tv"
-    },
-    {
-      "title": "Разное",
-      "results": [
-	      	 {
-      		"name": "Интерфейс мод",
-      		"author": "bywolf88",
-      		"link": "https://bywolf88.github.io/lampa-plugins/interface_mod.js",
-      		"descr": "Темы, стили отображения рейтинга и другое",
-      		"available_lampa": 1
- 	   	},
-	      	 {
-      		"name": "Рейтинг CUB в карточке фильма",
-      		"author": "RootU",
-      		"link": "https://plugin.rootu.top/cub-rating.js",
-      		"descr": "Выводит средний рейтинг (общую оценкую) на основе реакций пользователей",
-      		"available_lampa": 1
- 	   	},
-	        {
-      		"name": "Настройка шапки",
-      		"author": "@and7ey",
-      		"link": "https://and7ey.github.io/lampa/head_filter.js",
-      		"descr": "Добавляет возможность скрыть элементы в шапке приложения Лампа",
-      		"available_lampa": 1
- 	   	},
-		{
-      		"name": "Логотипы вместо названий",
-      		"author": "@helpiptv",
-      		"link": "https://lampaplugins.github.io/store/logo.js",
-      		"descr": "Отображает логотипы фильмов, вместо названий в карточках",
-      		"available_lampa": 1
- 	   	},
-	  	{
-      		"name": "Кинопоиск",
-      		"author": "@and7ey",
-      		"link": "https://and7ey.github.io/lampa/kinopoisk.js",
-      		"descr": "Отображает в приложении список фильмов из папки Буду смотреть на Кинопоиске",
-      		"available_lampa": 1
- 	 	  },
-	    	  {
-		  "name": "SomaFM",
-		  "author": "@tsynik",
-		  "link": "https://tsynik.github.io/lampa/soma.js",
-		  "descr": "Радио для Lampa",
-		  "available_lampa": 1
-		},
-	     	 {
-		  "name": "Радио Рекорд",
-		  "author": "@helpiptv",
-		  "link": "https://lampaplugins.github.io/store/record.js",
-		  "descr": "Радио Рекорд",
-		  "available_lampa": 1
-		},
-	      {
-		  "name": "Комментарии к фильмам от Rezka",
-		  "author": "@BDV_Burik",
-		  "link": "https://bdvburik.github.io/rezkacomment.js",
-		  "descr": "Комментарии с сайта Rezka в карточках фильмов, сериалов",
-		  "available_lampa": 1
-		},
-	       {
-		  "name": "Оригинальные названия",
-		  "author": "@BDV_Burik",
-		  "link": "https://bdvburik.github.io/title.js",
-		  "descr": "Добавляет оригинальные названия к фильмам, сериалам.",
-		  "available_lampa": 1
-		},
-		{
-		  "name": "Предзагрузка ts",
-		  "author": "@rootu",
-		  "link": "https://plugin.rootu.top/ts-preload.js",
-		  "descr": "Плагин визуализации предзагрузки торрентов для встроенного клиента TorrServer",
-		  "available_lampa": 1
-		},
-		{
-		  "name": "Приятные мелочи",
-		  "author": "@AndreyURL54",
-		  "link": "http://skaztv.online/js/tricks.js",
-		  "descr": "Дополнение некоторых востребованных функций и дизайна, которых вам не хватало. (mod. Без проверки на MSX)",
-		  "available_lampa": 1
-		},
-		{
-		  "name": "Отключение Websocket",
-		  "author": "@rootu",
-		  "link": "http://plugin.rootu.top/wsoff.js",
-		  "descr": "Плагин отключает протокол Websocket, помогает при ошибках на некоторых устройствах",
-		  "available_lampa": 1
-		}
-      ],
-      "hpu": "other"
+          "name": "account",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/account.js",
+          "descr": "account",
+          "available_lampa": 1
+        },
+        {
+          "name": "ads",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/ads.js",
+          "descr": "ads",
+          "available_lampa": 1
+        },
+        {
+          "name": "alt_search",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/alt_search.js",
+          "descr": "alt_search",
+          "available_lampa": 1
+        },
+        {
+          "name": "backmenu",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/backmenu.js",
+          "descr": "backmenu",
+          "available_lampa": 1
+        },
+        {
+          "name": "cinema",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/cinema.js",
+          "descr": "cinema",
+          "available_lampa": 1
+        },
+        {
+          "name": "cub_off",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/cub_off.js",
+          "descr": "cub_off",
+          "available_lampa": 1
+        },
+        {
+          "name": "etor",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/etor.js",
+          "descr": "etor",
+          "available_lampa": 1
+        },
+        {
+          "name": "hotkeys",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/hotkeys.js",
+          "descr": "hotkeys",
+          "available_lampa": 1
+        },
+        {
+          "name": "iptv",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/iptv.js",
+          "descr": "iptv",
+          "available_lampa": 1
+        },
+        {
+          "name": "jackett",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/jackett.js",
+          "descr": "jackett",
+          "available_lampa": 1
+        },
+        {
+          "name": "lmp",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/lmp.js",
+          "descr": "lmp",
+          "available_lampa": 1
+        },
+        {
+          "name": "m",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/m.js",
+          "descr": "m",
+          "available_lampa": 1
+        },
+        {
+          "name": "not_mobile",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/not_mobile.js",
+          "descr": "not_mobile",
+          "available_lampa": 1
+        },
+        {
+          "name": "online",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/online.js",
+          "descr": "online",
+          "available_lampa": 1
+        },
+        {
+          "name": "online2",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/online2.js",
+          "descr": "online2",
+          "available_lampa": 1
+        },
+        {
+          "name": "online_mod",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/online_mod.js",
+          "descr": "online_mod",
+          "available_lampa": 1
+        },
+        {
+          "name": "redirect",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/redirect.js",
+          "descr": "redirect",
+          "available_lampa": 1
+        },
+        {
+          "name": "seas_and_eps",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/seas_and_eps.js",
+          "descr": "seas_and_eps",
+          "available_lampa": 1
+        },
+        {
+          "name": "select_weapon",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/select_weapon.js",
+          "descr": "select_weapon",
+          "available_lampa": 1
+        },
+        {
+          "name": "store",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/store.js",
+          "descr": "store",
+          "available_lampa": 1
+        },
+        {
+          "name": "tmdb",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/tmdb.js",
+          "descr": "tmdb",
+          "available_lampa": 1
+        },
+        {
+          "name": "tmdb_proxy",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/tmdb_proxy.js",
+          "descr": "tmdb_proxy",
+          "available_lampa": 1
+        },
+        {
+          "name": "torrents",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/torrents.js",
+          "descr": "torrents",
+          "available_lampa": 1
+        },
+        {
+          "name": "ts-preload",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/ts-preload.js",
+          "descr": "ts-preload",
+          "available_lampa": 1
+        },
+        {
+          "name": "vcdn",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/vcdn.js",
+          "descr": "vcdn",
+          "available_lampa": 1
+        },
+        {
+          "name": "vod",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/vod.js",
+          "descr": "vod",
+          "available_lampa": 1
+        },
+        {
+          "name": "wsoff",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/wsoff.js",
+          "descr": "wsoff",
+          "available_lampa": 1
+        }
+      ]
     }
   ]
 }
-
-
-
-
-
