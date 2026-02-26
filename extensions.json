@@ -3,199 +3,252 @@
   "results": [
     {
       "title": "all",
-      "results": [
-        {
-          "name": "account2",
+      "results": [{
+          "name": "vod",
           "author": "@me",
-          "link": "https://penoreriq.github.io/mypage/account.js",
-          "descr": "account",
+          "link": "https://penoreriq.github.io/mypage/vod.js",
+          "descr": "Очередной плагин для бесплатного онлайн-просмотра. Включает в себя источники: Filmix, IRemux, Collaps, FanCDN, Redheadsound, HDVB. http://arkmv.ru/vod",
+          "available_lampa": 1
+        },{
+          "name": "trailers",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/trailers.js",
+          "descr": "Трейлеры Itunes https://plugin.rootu.top/trailers.js (для любой Lampa)",
+          "available_lampa": 1
+        },{
+          "name": "fix_size",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/fix_size.js",
+          "descr": "Интерфейс Lampa станет крупнее.  https://nb557.github.io/plugins/fix_size.js (для любой Lampa)",
+          "available_lampa": 1
+        },{
+          "name": "torrentmanager",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/torrentmanager.js",
+          "descr": "Плагин добавляет подключение торрент-клиентов. Таких как qBittornet и Transmission, с последующей возможностью загрузки торрента через него для локального просмотра.После установки зайдите в Настройки. В самом низу появится пункт меню LME Torrent Manager.https://lampame.github.io/main/torrentmanager/torrentmanager.js",
           "available_lampa": 1
         },
+        {
+          "name": "account",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/account.js",
+          "descr": "Аккаунт (синхронизация и бэкап вместо cub)Позволяет синхронизировать свои данные между устройствами через телеграмм-бота, без участия CUB. https://bylampa.github.io/account.js",
+          "available_lampa": 1
+        },
+		{
+          "name": "account",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/account.js",
+          "descr": "Бесплатные источники: Lumex (1080p), ViDEX (здесь пусто), Filmix (720p).Платные, нужна подписка VIP, показывают в 4K:KinoPub (оплачивается отдельно), MOD’s [HDR], FXpro, Alloha, VideoDB, IRemux, HDRezka, Zetflix, UAKino, Eneida, Kodik, Anilibria, HDVB, Collabs, KinoTochka, ManGo. http://lampa.stream/modss (основной, но в России может не работать)http://modss.tv (зеркало)http://n.modss.tv (зеркало)",
+          "available_lampa": 1
+        },
+
         {
           "name": "ads",
           "author": "@me",
           "link": "https://penoreriq.github.io/mypage/ads.js",
-          "descr": "ads",
+          "descr": "Плагин позволяет отключать рекламу при просмотре видео https://xiaomishka.github.io/lampa/ads.js",
           "available_lampa": 1
         },
         {
           "name": "alt_search",
           "author": "@me",
           "link": "https://penoreriq.github.io/mypage/alt_search.js",
-          "descr": "alt_search",
+          "descr": "Плагин alt_search.js регистрирует новый источник в Lampa под именем IMDB https://nb557.github.io/plugins/alt_search.js",
           "available_lampa": 1
         },
         {
-          "name": "backmenu",
+          "name": "exit",
           "author": "@me",
-          "link": "https://penoreriq.github.io/mypage/backmenu.js",
-          "descr": "backmenu",
-          "available_lampa": 1
-        },
-        {
-          "name": "cinema",
-          "author": "@me",
-          "link": "https://penoreriq.github.io/mypage/cinema.js",
-          "descr": "cinema",
-          "available_lampa": 1
-        },
-        {
-          "name": "cub_off",
-          "author": "@me",
-          "link": "https://penoreriq.github.io/mypage/cub_off.js",
-          "descr": "cub_off",
-          "available_lampa": 1
-        },
-        {
-          "name": "etor",
-          "author": "@me",
-          "link": "https://penoreriq.github.io/mypage/etor.js",
-          "descr": "etor",
+          "link": "https://penoreriq.github.io/mypage/e.js",
+          "descr": "Добавляет в главное меню пункт Выход. https://tsynik.github.io/lampa/e.js",
           "available_lampa": 1
         },
         {
           "name": "hotkeys",
           "author": "@me",
           "link": "https://penoreriq.github.io/mypage/hotkeys.js",
-          "descr": "hotkeys",
+          "descr": "Плагин вызывает меню плеера лампы по кнопкам пульта: 5 плейлист, 8 аудио дорожки, 0 субтитры, +/— следующий/предыдущий файл в плейлисте. https://nnmdd.github.io/lampa_hotkeys/hotkeys.js",
+          "available_lampa": 1
+        },
+        {
+          "name": "backmenu",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/backmenu.js",
+          "descr": "Плагин подменят меню выход на своё. Можно включить или выключить в настройках, раздел Остальное, пункт меню Выход.https://bylampa.github.io/backmenu.js (Lampa UNCENSORED)",
+          "available_lampa": 1
+        },
+        {
+          "name": "cinema",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/cinema.js",
+          "descr": "Ещё один плагин для просмотра онлайн. Источники: Cineteca, Louxor, Digiplex, Bijou, Urania, Alamo, Lucerna, Tivoli, Mirage, Aurora, Arena, International, Chef, Archipelago. https://bylampa.github.io/cinema.js  Lampa UNCENSORED ",
+          "available_lampa": 1
+        },
+        {
+          "name": "cub_off",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/cub_off.js",
+          "descr": "Плагин убирает элементы, предлагающие оформить CUB Premium https://bylampa.github.io/cub_off.js",
+          "available_lampa": 1
+        },
+        {
+          "name": "etor",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/etor.js",
+          "descr": "Плагин для появления пунктов Парсер TorrServer в меню настроек для лампы из магазина: http://cub.red/plugin/etor",
+          "available_lampa": 1
+        },{
+          "name": "source",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/source.js",
+          "descr": "Дополнительные источники. Зайдите в Настройки (шестерёнка), выберите Остальное (в самом низу), затем Основной Источник. У вас появится 2 дополнительных источника KP (КиноПоиск) и FILMIX. Даже CUB вроде начинает работать. https://bylampa.github.io/source.js (Lampa UNCENSORED)",
           "available_lampa": 1
         },
         {
           "name": "iptv",
           "author": "@me",
           "link": "https://penoreriq.github.io/mypage/iptv.js",
-          "descr": "iptv",
+          "descr": "IPTV от разработчиков лампы (Pаботает только с вашим плейлистом, который вам нужно добавить после регистрации на сайте cub.red) http://cub.red/plugin/iptv",
+          "available_lampa": 1
+        },{
+          "name": "rating",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/rating.js",
+          "descr": "Рейтинг КиноПоиск и IMDB https://nb557.github.io/plugins/rating.js (для любой Lampa)",
           "available_lampa": 1
         },
         {
           "name": "jackett",
           "author": "@me",
           "link": "https://penoreriq.github.io/mypage/jackett.js",
-          "descr": "jackett",
+          "descr": "Теперь можно выбирать адрес парсера с уже заполненными правильными параметрами. Также можно видеть нерабочие адреса. https://bylampa.github.io/jackett.js",
+          "available_lampa": 1
+        },{
+          "name": "pubtorr",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/pubtorr.js",
+          "descr": "Теперь можно выбирать адрес парсера с уже заполненными правильными параметрами. Также можно видеть нерабочие адреса. https://lampame.github.io/main/pubtorr.js",
+          "available_lampa": 1
+        },
+		{
+          "name": "tracks",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/tracks.js",
+          "descr": "Плагин позволяет выбрать Аудиодорожку и Субтитры, если в скачиваемом видеофайле их несколько. Работает только в торрентах. http://cub.red/plugin/tracks",
           "available_lampa": 1
         },
         {
           "name": "lmp",
           "author": "@me",
           "link": "https://penoreriq.github.io/mypage/lmp.js",
-          "descr": "lmp",
+          "descr": "hasprem https://lmpa.pages.dev/lmp.js",
           "available_lampa": 1
         },
         {
           "name": "m",
           "author": "@me",
           "link": "https://penoreriq.github.io/mypage/m.js",
-          "descr": "m",
+          "descr": "bwa http://wtch.ch/m",
           "available_lampa": 1
         },
         {
           "name": "not_mobile",
           "author": "@me",
           "link": "https://penoreriq.github.io/mypage/not_mobile.js",
-          "descr": "not_mobile",
-          "available_lampa": 1
-        },
-        {
-          "name": "online",
-          "author": "@me",
-          "link": "https://penoreriq.github.io/mypage/online.js",
-          "descr": "online",
-          "available_lampa": 1
-        },
-        {
-          "name": "online2",
-          "author": "@me",
-          "link": "https://penoreriq.github.io/mypage/online2.js",
-          "descr": "online2",
+          "descr": "Плагин позволяет выключить сенсорное управление, если по ошибке Вы его включили. https://nb557.github.io/plugins/not_mobile.js",
           "available_lampa": 1
         },
         {
           "name": "online_mod",
           "author": "@me",
           "link": "https://penoreriq.github.io/mypage/online_mod.js",
-          "descr": "online_mod",
+          "descr": "Один из самых популярных плагинов для Lampa. Позволяет смотреть кино в реальном времени. Рабочие бесплатные Балансеры (Источники): Lumex, HDrezka, Fan Serials и RedHeadSound. https://nb557.github.io/plugins/online_mod.js (для любой Lampa) http://nb557.surge.sh/online_mod.js (для любой Lampa)",
           "available_lampa": 1
         },
         {
           "name": "redirect",
           "author": "@me",
           "link": "https://penoreriq.github.io/mypage/redirect.js",
-          "descr": "redirect",
+          "descr": "В меню Настройки появится новый пункт Смена Сервера. https://bylampa.github.io/redirect.js  (Lampa UNCENSORED)",
           "available_lampa": 1
         },
         {
           "name": "seas_and_eps",
           "author": "@me",
           "link": "https://penoreriq.github.io/mypage/seas_and_eps.js",
-          "descr": "seas_and_eps",
+          "descr": "Отображает текущее состояние сериала в карточке. Сезон и серия. Отключить и включить можно в настройках Интерфейса. https://bylampa.github.io/seas_and_eps.js (Lampa UNCENSORED)",
           "available_lampa": 1
         },
         {
           "name": "select_weapon",
           "author": "@me",
           "link": "https://penoreriq.github.io/mypage/select_weapon.js",
-          "descr": "select_weapon",
-          "available_lampa": 1
-        },
-        {
-          "name": "store",
-          "author": "@me",
-          "link": "https://penoreriq.github.io/mypage/store.js",
-          "descr": "store",
-          "available_lampa": 1
-        },
-        {
-          "name": "tmdb",
-          "author": "@me",
-          "link": "https://penoreriq.github.io/mypage/tmdb.js",
-          "descr": "tmdb",
+          "descr": "Зайти в Настройки, затем в Остальное. В самом низу появится пункт Сбросить тип управления.  https://nemiroff.github.io/lampa/select_weapon.js",
           "available_lampa": 1
         },
         {
           "name": "tmdb_proxy",
           "author": "@me",
           "link": "https://penoreriq.github.io/mypage/tmdb_proxy.js",
-          "descr": "tmdb_proxy",
+          "descr": "Плагины для возвращения постеров - http://skaz.tv/t.js ",
+          "available_lampa": 1
+        },{
+          "name": "tmdb_proxy1",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/tmdb_proxy1.js",
+          "descr": "Нет постеров в Lampa. https://nb557.github.io/plugins/tmdb_proxy.js",
+          "available_lampa": 1
+        },{
+          "name": "tmdb_proxy2",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/tmdb_proxy2.js",
+          "descr": "Нет постеров в Lampa. https://plugin.rootu.top/tmdb.js (для любой Lampa)",
+          "available_lampa": 1
+        },{
+          "name": "tmdb_proxy3",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/tmdb_proxy3.js",
+          "descr": "Нет постеров в Lampa. https://cub.red/plugin/tmdb-proxy (Lampa от разработчиков)",
+          "available_lampa": 1
+        },{
+          "name": "tmdb_proxy4",
+          "author": "@me",
+          "link": "https://penoreriq.github.io/mypage/tmdb_proxy4.js",
+          "descr": "Нет постеров в Lampa. https://bylampa.github.io/tmdb-proxy.js (Lampa UNCENSORED)",
           "available_lampa": 1
         },
         {
           "name": "torrents",
           "author": "@me",
           "link": "https://penoreriq.github.io/mypage/torrents.js",
-          "descr": "torrents",
+          "descr": "Добавляет вторую кнопку Торренты. Если в первой будет парсер по умолчанию, то во второй можно выбирать парсер. https://github.freebie.tom.ru/torrents.js",
           "available_lampa": 1
         },
         {
           "name": "ts-preload",
           "author": "@me",
           "link": "https://penoreriq.github.io/mypage/ts-preload.js",
-          "descr": "ts-preload",
+          "descr": "Плагин визуализации предзагрузки торрентов для встроенного клиента TorrServer'а. https://plugin.rootu.top/ts-preload.js",
           "available_lampa": 1
         },
         {
-          "name": "vcdn",
+          "name": "VideoCDN",
           "author": "@me",
           "link": "https://penoreriq.github.io/mypage/vcdn.js",
-          "descr": "vcdn",
+          "descr": "Для онлайн просмотра плагин включает в себя только 2 источника (VideoCDN и Videoseed). Зато они полностью бесплатные и показывают в отличном качестве FullHD-1080p видео. https://lampaplugins.github.io/store/vcdn.js http://skaz.tv/vcdn.js",
           "available_lampa": 1
         },
-        {
-          "name": "vod",
-          "author": "@me",
-          "link": "https://penoreriq.github.io/mypage/vod.js",
-          "descr": "vod",
-          "available_lampa": 1
-        },
+        
         {
           "name": "wsoff",
           "author": "@me",
           "link": "https://penoreriq.github.io/mypage/wsoff.js",
-          "descr": "wsoff",
+          "descr": "Плагин отключает ошибку (Request was denied for security) на старых версиях Android. Если ошибки нет, то не устанавливайте. http://plugin.rootu.top/wsoff.js",
           "available_lampa": 1
         }
       ]
     }
   ]
 }
-
 
